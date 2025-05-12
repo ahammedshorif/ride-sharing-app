@@ -56,10 +56,10 @@ function UserLogin() {
           </button>
           
         </form>
-        <p className="text-center">New here? <Link to="/signup" className="text-blue-600">Create New Account</Link></p>
+        <p className="text-center">New here? <Link to="/signup" className="text-blue-600">Create New User Account</Link></p>
       </div>
       <div>
-        <Link to="/captain-login" className="bg-green-400 flex justify-center items-center text-white mb-7 rounded px-4 py-2 border w-full text-lg">Sign in as Captain</Link>
+        <Link to="/captain-login" className="bg-green-500 flex justify-center items-center text-white mb-7 rounded px-4 py-2 border w-full text-lg">Sign in as Captain</Link>
       </div>
 
     </div>
