@@ -13,9 +13,9 @@ function UserSignup() {
 
     setUserData(
       {
-        username: {
-          firstname: firstname,
-          lastname: lastname,
+        fullName: {
+          firstName: firstname,
+          lastName: lastname,
         },
         email:email,
         password:password,
